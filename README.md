@@ -6,6 +6,8 @@
 
 Python - Linguagem para desenvolvimento dos comandos
 
+- Pandas - Manipulação de dados
+
 Excel - Armazenamento dos dados em arquivo no formato .CSV
 
 VS Code - Ferramenta de edição de código
