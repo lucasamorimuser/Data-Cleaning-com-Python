@@ -23,3 +23,7 @@ Análise exploratória dos dados (AED) através dos métodos pandas INFO e DESCR
 Desenvolvimento de funções DEF para tratar valores duplicados (.DROP_DUPLICATED), negativos (.ABS), nulos (.DROPNA) e remoção de linhas com dados vazios. 
 
 Execução das funções para cada arquivo determinando em quais colunas serão executadas as funções de limpeza, e posterior salvamento dos dados agora tratados no formato .CSV para serem usados em um dashboard Power Bi.
+
+### Dados 
+
+Os dados utilizados são fictícios
